@@ -27,6 +27,9 @@ public class FirstProject {
 	case 2:
 		System.out.println("Second case");
 		break;
+	case 3:
+		System.out.println("Third case");
+		break;
 
 	default:
 		break;
