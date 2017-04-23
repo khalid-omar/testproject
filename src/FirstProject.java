@@ -30,6 +30,9 @@ public class FirstProject {
 	case 3:
 		System.out.println("Third case");
 		break;
+	case 4:
+		System.out.println("Fourth case");
+		break;
 
 	default:
 		break;
